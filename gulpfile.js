@@ -57,7 +57,7 @@ let inline_js_css = function () {
 };
 
 let copy_book = function () {
-  return src("./src/The-Book-of-Swarm.pdf").pipe(dest("./dist/"));
+  return src("./src/The-Book-of-Candle.pdf").pipe(dest("./dist/"));
 };
 
 let copy_whitepaper = function () {

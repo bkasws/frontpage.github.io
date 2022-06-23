@@ -1,4 +1,4 @@
-# Swarm Frontpage
+# Candle Frontpage
 
 ### Contribute
 
