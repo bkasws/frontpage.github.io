@@ -33,7 +33,7 @@ jobs:
         run: |
           yarn
           yarn gulp
-          echo "www.ethswarm.org" > ./dist/CNAME
+          echo "https://candleplatforms.github.io/frontpage.github.io/" > ./dist/CNAME
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
